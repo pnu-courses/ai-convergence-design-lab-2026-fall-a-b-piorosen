@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "ai-convergence-design-lab-2026-fall"
+assignment: "a-b"
+owner:
+  username: "Piorosen"
+  id: 19870893
+  accepted_at: "2026-09-02T16:33:01Z"
+source:
+  owner: "pnu-courses"
+  owner_id: 321984607
+  repo: "template-python"
+  branch: "main"
