@@ -6,7 +6,7 @@
 # This program is the starting point for carrying out and
 # grading this assignment. It reads two integers as input and
 # prints their sum. All subsequent code for the assignment is
-# written and evaluated based on this file.
+# written and evaluated based on this file. ㅁ
 # ============================================================
 
 a, b = map(int, input().split())
